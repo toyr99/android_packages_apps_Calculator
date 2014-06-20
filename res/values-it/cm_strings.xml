@@ -63,8 +63,13 @@
   <string name="pref_theme">Tema</string>
   <string name="pref_about">Info</string>
   <string name="returnToBasic">Ritorna al pannello base</string>
+  <string name="infiniteScrolling">Scroll infinito</string>
+  <string name="vibrateOnPress">Vibra al click</string>
   <string name="clickToOpenHistory">Clicca per la cronologia</string>
   <string name="digitGrouping">Raggruppamento cifre</string>
+  <string name="showDetails">Mostra dettagli</string>
+  <string name="floatingCalc">Calcolatrice floating</string>
+  <string name="showWidgetBackground">Mostra sfondo widget</string>
   <string name="trigUnits">Unità trigonometriche</string>
   <string name="radians">RAD</string>
   <string name="degrees">DEG</string>
